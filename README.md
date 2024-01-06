@@ -1,3 +1,3 @@
-### Hi, I'm Zac!
+### Hi, I'm Indy!
 ### You can visit my website below for an overview of my projects:
-### [zacnolan.com](https://www.zacnolan.com)
+### [indynolan.com](https://www.indynolan.com)
