@@ -1,3 +1,3 @@
-### Hi, I'm Indy!
-### You can visit my website below for an overview of my projects:
-### [indigonolan.com](https://indigonolan.com)
+# Hi, I'm Indy!
+* Visit my portfolio website at [indigonolan.com](https://indigonolan.com) 
+* Or try out [CashCat, a new way to budget!](https://cashcat.indigonolan.com)
