@@ -2,7 +2,7 @@
 
 I love making fun and useful things, sites, apps, and tools.
 
- Look at everything I've made at [indigonolan.com](https://indigonolan.com)
+ Look at everything I've made at [indigo.spot](https://indigo.spot)
  
   My LinkedIn is at [linkedin.com/in/indigonolan](https://www.linkedin.com/in/indigonolan/)
  
